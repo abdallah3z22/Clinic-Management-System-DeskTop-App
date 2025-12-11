@@ -32,7 +32,6 @@ The application is built with **clean MVC architecture**, smooth navigation, and
 
 ### 🩺 Doctors Management
 - Manage doctors and specialties  
-- Store schedules and working hours  
 - View doctor–patient interactions  
 
 ### 💊 Prescriptions
