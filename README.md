@@ -50,16 +50,11 @@ The application is built with **clean MVC architecture**, smooth navigation, and
 
 ---
 
-## 🛠 Technologies Used
-
-| Component | Technology |
-|----------|------------|
-| **Language** | Java (JDK 11+) |
-| **GUI Framework** | Swing (JFrame, JPanel, JTable, Dialogs) |
-| **Database** | MySQL |
-| **Architecture** | MVC + DAO |
-| **IDE** | NetBeans  |
-| **Build Tool** | Maven  |
+## 🔗 Screenshots
+<p align="center">
+  <img src="project-images/login.png" width="300" height="180" style="margin: 5px;"/>
+  <img src="project-images/program.png" width="300" height="220" style="margin: 5px;"/>
+</p>
 
 ---
 
