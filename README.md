@@ -52,7 +52,7 @@ The application is built with **clean MVC architecture**, smooth navigation, and
 
 ## 🔗 Screenshots
 <p align="center">
-  <img src="[project-images/login.png](https://github.com/abdallah3z22/Clinic-Management-System-DeskTop-App/blob/main/project-images/1.png)" width="300" height="180" style="margin: 5px;"/>
+  <img src="project-images/1.png" width="300" height="180" style="margin: 5px;"/>
   <img src="project-images/program.png" width="300" height="220" style="margin: 5px;"/>
 </p>
 
