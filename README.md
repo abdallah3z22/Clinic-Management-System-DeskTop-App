@@ -66,5 +66,5 @@ The application is built with **clean MVC architecture**, smooth navigation, and
 ## 👤 Developer
 
 Abdallah Zaitoun
-📧 Email: abdallahzaytoon42@gmail.com
-🔗 LinkedIn: Abdallah Zaitoun
+- 📧 Email: abdallahzaytoon42@gmail.com
+- 🔗 LinkedIn: Abdallah Zaitoun
