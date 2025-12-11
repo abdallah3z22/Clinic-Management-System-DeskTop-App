@@ -1,60 +1,69 @@
-# 🏥 Clinic Management System – Desktop Application
+# 🏥 Clinic Management System  
+### Java Desktop Application (Swing + MySQL)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=flat-square" alt="Java"/>
-  <img src="https://img.shields.io/badge/Framework-Swing-blue?style=flat-square" alt="Swing"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-success?style=flat-square" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Platform-Desktop-lightgrey?style=flat-square" alt="Desktop"/>
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Language-Java%2011+-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GUI-Java%20Swing-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform-Desktop-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
 
-## ✨ About the Project
-This is a **Java Desktop Application** built for **clinic management**, allowing staff to handle patients, doctors, prescriptions, receptionists, and lab tests with ease.  
-The application includes a **simple, user-friendly Swing interface** and provides essential features to support clinic workflows and reduce operational effort.
+## ✨ Overview  
+The **Clinic Management System** is a complete desktop application built using **Java Swing** and **MySQL**, designed to streamline and automate daily clinic operations.  
+It provides a centralized interface for managing **patients, doctors, prescriptions, lab tests, and receptionists**, supported by a secure **login system** and organized workflow.
+
+The application is built with **clean MVC architecture**, smooth navigation, and a fully responsive desktop layout.
 
 ---
 
-## 🛠 Features
-- Add, edit, and delete patient records.  
-- Manage doctor information and specialties.  
-- Create and store medical prescriptions.  
-- Handle receptionist accounts and user access.  
-- Record and manage laboratory test results.  
-- Secure login system with access control.  
-- Search and filter across all modules.  
-- Smooth and easy-to-navigate desktop interface.
+## 🧩 Key Modules  
+
+### 🔐 Login System
+- Secure authentication  
+- Encrypted passwords  
+- Role-based access (Admin, Doctor, Receptionist)  
+
+### 👥 Patients Management
+- Add, update, and delete patient records  
+- Complete patient profile and medical history  
+- Fast search (ID, name, phone…)  
+
+### 🩺 Doctors Management
+- Manage doctors and specialties  
+- Store schedules and working hours  
+- View doctor–patient interactions  
+
+### 💊 Prescriptions
+- Create and manage prescriptions  
+- Add medicines, dosage, instructions  
+- Automatically linked to patient profile  
+
+### 🧑‍💼 Receptionists Management
+- Manage receptionist accounts  
+- Control permissions and access levels  
+- Simple user-friendly interface  
+
+### 🔬 Test Laboratory
+- Add and manage lab test results  
+- Assign tests to patients & doctors  
+- Store full lab history  
 
 ---
 
-## 💻 Technologies Used
-- **Language:** Java  
-- **Platform:** Desktop Application  
-- **Framework:** Swing  
-- **IDE:** NetBeans  
-- **Database:** MySQL  
+## 🛠 Technologies Used
+
+| Component | Technology |
+|----------|------------|
+| **Language** | Java (JDK 11+) |
+| **GUI Framework** | Swing (JFrame, JPanel, JTable, Dialogs) |
+| **Database** | MySQL |
+| **Architecture** | MVC + DAO |
+| **IDE** | NetBeans / IntelliJ |
+| **Build Tool** | Maven (optional) |
 
 ---
 
-## 🔗 Screenshots
-<p align="center">
-  <img src="project-images/login.png" width="300" height="180" style="margin: 5px;"/>
-  <img src="project-images/program.png" width="300" height="220" style="margin: 5px;"/>
-</p>
-
----
-
-## ⚡ Usage
-- Launch the application.  
-- Log in using your credentials.  
-- Navigate through the menu to access modules: Patients, Doctors, Prescriptions, Receptionists, Lab Tests.  
-- Use the search tools to quickly find records.  
-- Add, update, delete, or review clinic data as needed.  
-
----
-
-## 📫 Contact
-For questions or support, contact **Abdallah Zaitoun**:  
-- Email: `abdallahzaytoon42@gmail.com`  
-- LinkedIn: [Abdallah Zaitoun](https://www.linkedin.com/in/abdallah-zaitoun-133754348)
+## 📂 Project Structure  
