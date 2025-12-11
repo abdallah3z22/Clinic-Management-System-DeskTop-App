@@ -41,7 +41,6 @@ The application is built with **clean MVC architecture**, smooth navigation, and
 
 ### 🧑‍💼 Receptionists Management
 - Manage receptionist accounts  
-- Control permissions and access levels  
 - Simple user-friendly interface  
 
 ### 🔬 Test Laboratory
