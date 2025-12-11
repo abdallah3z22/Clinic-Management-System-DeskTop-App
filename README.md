@@ -24,7 +24,6 @@ The application is built with **clean MVC architecture**, smooth navigation, and
 ### 🔐 Login System
 - Secure authentication  
 - Encrypted passwords  
-- Role-based access (Admin, Doctor, Receptionist)  
 
 ### 👥 Patients Management
 - Add, update, and delete patient records  
