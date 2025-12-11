@@ -1,5 +1,5 @@
 # 🏥 Clinic Management System  
-### Java Desktop Application (Swing + MySQL)
+### Java Desktop Application (Swing + MySQL) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java%2011+-orange?style=for-the-badge"/>
