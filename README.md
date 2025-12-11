@@ -52,12 +52,12 @@ The application is built with **clean MVC architecture**, smooth navigation, and
 
 ## 🔗 Screenshots
 <p align="center">
-  <img src="project-images/1.png" width="300" height="160" style="margin: 5px;"/>
+  <img src="project-images/1.png" width="300" height="155" style="margin: 5px;"/>
   <img src="project-images/pat2.png" width="300" height="220" style="margin: 5px;"/>
   <img src="project-images/doctor.png" width="300" height="220" style="margin: 5px;"/>
   <img src="project-images/lab test 4.png" width="300" height="220" style="margin: 5px;"/>
   <img src="project-images/5  Recep.png" width="300" height="220" style="margin: 5px;"/>
-  <img src="project-images/presc6.png" width="300" height="220" style="margin: 5px;"/>
+  <img src="project-images/presc6.png" width="300" height="225" style="margin: 5px;"/>
 </p>
 
 ---
