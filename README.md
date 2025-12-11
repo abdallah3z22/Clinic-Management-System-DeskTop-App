@@ -58,9 +58,13 @@ The application is built with **clean MVC architecture**, smooth navigation, and
 | **GUI Framework** | Swing (JFrame, JPanel, JTable, Dialogs) |
 | **Database** | MySQL |
 | **Architecture** | MVC + DAO |
-| **IDE** | NetBeans / IntelliJ |
-| **Build Tool** | Maven (optional) |
+| **IDE** | NetBeans  |
+| **Build Tool** | Maven  |
 
 ---
 
-## 📂 Project Structure  
+## 👤 Developer
+
+Abdallah Zaitoun
+📧 Email: abdallahzaytoon42@gmail.com
+🔗 LinkedIn: Abdallah Zaitoun
